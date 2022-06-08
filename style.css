@@ -84,16 +84,19 @@ body{
     font-size: 12px;
     font-weight: 400;
     margin-top: .3rem;
+    text-align: center;
 }
 .likes span{
     font-size: 12px;
     font-weight: 400;
     margin-top: .3rem;
+    text-align:center;
 }
 .photos span{
     font-size: 12px;
     font-weight: 400;
     margin-top: .3rem;
+    text-align: center;
 }
 .attribution{[
     margin-top: 1rem;
